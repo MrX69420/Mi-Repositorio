@@ -1,0 +1,18 @@
+[keyring]
+display-name=Login
+ctime=0
+mtime=1682672280
+lock-on-idle=false
+lock-after=false
+
+[1]
+item-type=0
+display-name=GNOME Remote Desktop RDP credentials
+secret={'username': <'isard'>, 'password': <'pirineus'>}
+mtime=1682672439
+ctime=1682672429
+
+[1:attribute0]
+name=xdg:schema
+type=string
+value=org.gnome.RemoteDesktop.RdpCredentials

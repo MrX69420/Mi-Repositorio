@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/isard/6855A3322EF009B0/isard_wallpaper.png" added="2023-04-28T08:59:23.743247Z" modified="2023-04-28T08:59:23.743252Z" visited="2023-04-28T08:59:23.743247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-04-28T08:59:23.743249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/isard/6855A3322EF009B0/isard_profile.png" added="2023-04-28T09:01:02.941503Z" modified="2023-04-28T09:01:02.941509Z" visited="2023-04-28T09:01:02.941504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-04-28T09:01:02.941506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/LopezSalinasIker_SansGaming/index.php" added="2024-01-23T14:34:45.282419Z" modified="2024-01-23T14:34:45.282423Z" visited="2024-01-23T14:34:45.282420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-01-23T14:34:45.282421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/LopezSalinasIker_SansGaming/wp-content/index.php" added="2024-01-23T14:41:38.762454Z" modified="2024-01-23T14:41:38.762458Z" visited="2024-01-23T14:41:38.762455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-01-23T14:41:38.762456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/LopezSalinasIker_SansGaming/wp-content/themes/index.php" added="2024-01-23T14:41:45.036846Z" modified="2024-01-23T14:41:45.036850Z" visited="2024-01-23T14:41:45.036846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-01-23T14:41:45.036848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/Sense%20t%C3%ADtol%201" added="2024-02-06T15:51:35.193899Z" modified="2024-02-06T15:51:35.193905Z" visited="2024-02-06T15:51:35.193900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-02-06T15:51:35.193902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/M08_UF3_fase2_SalinasIker_06-02-2024.odt.zip" added="2024-02-06T15:54:10.763824Z" modified="2024-02-06T15:54:13.879328Z" visited="2024-02-06T15:54:10.763826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-02-06T15:54:13.879324Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/juancover.jpg" added="2024-02-13T15:04:48.859810Z" modified="2024-02-13T15:04:49.105830Z" visited="2024-02-13T15:04:48.859810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-02-13T15:04:48.859812Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-02-13T15:04:49.105828Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/71121dd49131f28db3d08131f1abc935.jpg" added="2024-02-13T15:07:10.951397Z" modified="2024-02-13T15:07:11.201634Z" visited="2024-02-13T15:07:10.951398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-02-13T15:07:10.951399Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-02-13T15:07:11.201632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/Sense%20t%C3%ADtol.jpeg" added="2024-02-20T14:26:38.525829Z" modified="2024-02-20T14:26:38.773333Z" visited="2024-02-20T14:26:38.525829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-02-20T14:26:38.525830Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-02-20T14:26:38.773330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/450_1000.jpg" added="2024-02-20T14:48:05.305810Z" modified="2024-02-20T14:48:05.556652Z" visited="2024-02-20T14:48:05.305811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-02-20T14:48:05.305812Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-02-20T14:48:05.556649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/portatilymovil_carton_0001_Capa-2-B.jpg" added="2024-02-20T14:48:31.861710Z" modified="2024-02-20T14:48:32.109069Z" visited="2024-02-20T14:48:31.861711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-02-20T14:48:31.861712Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-02-20T14:48:32.109066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori/phpMyAdmin-5.2.1-all-languages.zip" added="2024-04-03T13:47:59.466298Z" modified="2024-04-03T13:47:59.466301Z" visited="2024-04-03T13:47:59.466299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-04-03T13:47:59.466300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html" added="2024-04-03T13:48:24.456177Z" modified="2024-04-03T13:48:33.686828Z" visited="2024-04-03T13:48:24.456178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Gestor d&apos;arxius" exec="&apos;file-roller %u&apos;" modified="2024-04-03T13:48:33.686826Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isard/Escriptori" added="2024-04-03T13:48:41.651505Z" modified="2024-04-03T13:48:41.651511Z" visited="2024-04-03T13:48:41.651506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Gestor d&apos;arxius" exec="&apos;file-roller %u&apos;" modified="2024-04-03T13:48:41.651508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
